@@ -1,2 +1,5 @@
 # CNS
-Computational Neuroscience course projects
+Computational Neuroscience Course Projects.
+Main libraries used:
+- Pymonntorch
+- CoNeX
