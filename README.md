@@ -22,4 +22,4 @@ To run the code, install [PyMoNNtorch](https://github.com/Ganjtabesh-Lab/PymoNNt
 
 These projects were completed as part of a graduate course on computational neuroscience methods and models taught by Dr. Ganjtabesh at the University of Tehran.
 
-Topics covered neural biophysics, synaptic plasticity, network connectivity, dynamics, and learning. The course combined theoretical foundations with practical modeling to gain insights into brain computation.
+Topics covered neural biophysics, synaptic plasticity, network connectivity, dynamics, learning, and using these ideas on visual cortex. The course combined theoretical foundations with practical modeling to gain insights into brain computation.
