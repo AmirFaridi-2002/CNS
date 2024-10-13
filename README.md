@@ -1,25 +1,24 @@
-# Computational NeuroScience
+# Computational Neuroscience
 
-This repository contains projects and reports for a graduate-level computational neuroscience course at the University of Tehran.
+This repository contains code and reports for a graduate-level computational neuroscience course at the University of Tehran.
 
 ## Contents
 
-The repository includes the following topics:
+The repository covers the following topics:
 
-- **Leaky Integrate-and-Fire Neuron Models**: Python implementation and analysis of the LIF neuron model and its improved versions including Exponential LIF and Adaptive Exponential LIF.
-- **Neural Populations**: Simulates and analyzes different connectivity schemes in spiking neural networks.
-- **Neural Encoding**: Implements Time-to-First-Spike encoding algorithm.
-- **Learning**: Models STDP and Reward-Modulated STDP learning rules and resulting weight changes in spiking neural networks.
-- **Image Processing**: Basic image processing and feature extracting using DoG and Gabor filters on CelebA dataset.
+- **Leaky Integrate-and-Fire Neuron Models**: Python implementations and analyses of the LIF neuron model, along with enhanced versions like the Exponential LIF and Adaptive Exponential LIF models.
+- **Neural Populations**: Simulates and studies various connectivity structures within spiking neural networks.
+- **Neural Encoding**: Implements algorithms for Time-to-First-Spike encoding.
+- **Learning**: Models Spike-Timing-Dependent Plasticity (STDP) and Reward-Modulated STDP, exploring weight changes in spiking neural networks.
 
 ## Usage
 
-The code for each topic is contained in its own subdirectory along with a report PDF describing the background and presenting results.
+Each topic has its own subdirectory, containing the code and a PDF report that explains the background and results.
 
 To run the code, install [PyMoNNtorch](https://github.com/Ganjtabesh-Lab/PymoNNtorch) and [CoNeX](https://github.com/cnrl/CoNeX)
 
 ## About the Course
 
-These projects were completed as part of a graduate course on computational neuroscience methods and models taught by Dr. Ganjtabesh at the University of Tehran.
+These projects were developed as part of a graduate-level course on computational neuroscience at the University of Tehran, taught by Dr. Ganjtabesh.
 
-Topics covered neural biophysics, synaptic plasticity, network connectivity, dynamics, learning, and using these ideas on visual cortex. The course combined theoretical foundations with practical modeling to gain insights into brain computation.
+The course explored neural biophysics, synaptic plasticity, network dynamics, and learning, with an emphasis on integrating theory and practical modeling to better understand brain computation.
