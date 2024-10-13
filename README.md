@@ -16,7 +16,7 @@ The repository includes the following topics:
 
 The code for each topic is contained in its own subdirectory along with a report PDF describing the background and presenting results.
 
-To run the code, install [PyMoNNtorch](https://github.com/Ganjtabesh-Lab/PymoNNtorch) and execute the Python scripts. Parameters can be configured in code.
+To run the code, install [PyMoNNtorch](https://github.com/Ganjtabesh-Lab/PymoNNtorch) and [CoNeX](https://github.com/cnrl/CoNeX)
 
 ## About the Course
 
